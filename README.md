@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="" width="100%" alt="Dark Banner"/>
+  <img src="https://github.com/user-attachments/assets/609d0d2a-a42d-425d-a69b-3b3b47ee05e7" width="100%" alt="Dark Banner"/>
 </p>
 
 <h1 align="center">🕶️ Welcome to the Dark Side</h1>
