@@ -1,17 +1,15 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/609d0d2a-a42d-425d-a69b-3b3b47ee05e7" width="100%" alt="Dark Banner"/>
-</p>
 
-<h1 align="center">🕶️ Welcome to the Dark Side</h1>
-<p align="center">I code in the shadows. Only bugs fear the light.</p>
 
 
 
 # 👋 Hi there! I'm Saechan Moon! 👨‍💻
 
 Welcome to my zone!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d546cd2-82e8-41d4-8cb7-340481acd822" width="100%" alt="Dark Banner"/>
+</p>
 
 <!--
 **anstocks0312/anstocks0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
