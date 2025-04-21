@@ -7,6 +7,8 @@
 # 👋 Hi there! I'm Saechan Moon! 👨‍💻
 
 Welcome to my zone!
+
+I am currently pursuing a double major in Civil Engineering and Computer Engineering at Chungbuk National University. After graduation, my dream is to contribute to global development by combining industrial technology and programming skills.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d546cd2-82e8-41d4-8cb7-340481acd822" width="100%" alt="Dark Banner"/>
 </p>
@@ -41,5 +43,9 @@ Here are some ideas to get you started:
 # 🤔 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=anstocks0312&show_icons=true&theme=github_dark" width="500" />
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anstocks0312&layout=compact&theme=merko" width="500" />
+
+
+
+
+![Image](https://github.com/user-attachments/assets/68fe50db-8439-408d-a324-2a8e67968e9e)
